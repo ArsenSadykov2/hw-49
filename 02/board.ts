@@ -8,6 +8,7 @@ for(let i = 1; i <= 8; i++) {
             blockChess.push('  ');
         }
     }
+
     console.log(blockChess.join());
     blockChess = [];
 }
